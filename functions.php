@@ -12,7 +12,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 if ( ! defined( 'YUKI_BLOGGER_VERSION' ) ) {
 	// Replace the version number of the theme on each release.
-	define( 'YUKI_BLOGGER_VERSION', '1.0.3' );
+	define( 'YUKI_BLOGGER_VERSION', '1.0.4' );
 }
 
 if ( ! defined( 'YUKI_BLOGGER_PATH' ) ) {
