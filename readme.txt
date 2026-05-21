@@ -2,9 +2,9 @@
 Contributors: ibllex
 Author: WP Moose
 Requires at least: WordPress 5.2+
-Tested up to: WordPress 6.6
+Tested up to: WordPress 7.0
 Requires PHP: 7.4
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: news, blog, portfolio, grid-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, block-styles, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-image-header, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, threaded-comments, theme-options, translation-ready, wide-blocks
@@ -36,6 +36,10 @@ assets/images/fallback-image.png
 assets/images/hero-background.png
 
 == Changelog ==
+
+= 1.0.6 =
+
+* Ref: WP7.0 support
 
 = 1.0.5 =
 
